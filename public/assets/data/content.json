@@ -1,0 +1,98 @@
+{
+    "fistBoxName": "Annual Mission",
+    "contactEmail": "dashboard@gmail.com",
+    "phone": "123-456-7890",
+    "firstInfo": "Company Overview",
+    "secondInfo": "Mission Statement",
+    "thirdInfo": "Values and Principles",
+    "firstMainNav": [
+        {
+            "url": "/financial_planning.html",
+            "text": "Financial planning",
+            "linkID": "",
+            "linkClass": "services",
+            "newTab": false
+        },
+        {
+            "url": "/investment_planning.html",
+            "text": "Investment planning",
+            "linkID": "",
+            "linkClass": "services",
+            "newTab": false
+        },
+        {
+            "url": "/budget_allocation.html",
+            "text": "Budget allocation",
+            "linkID": "",
+            "linkClass": "services",
+            "newTab": false
+        },
+        {
+            "url": "/risk_management.html",
+            "text": "Risk management",
+            "linkID": "",
+            "linkClass": "services",
+            "newTab": true
+        },
+        {
+            "url": "/tax_planning.html",
+            "text": "Tax planning",
+            "linkID": "",
+            "linkClass": "services",
+            "newTab": false
+        }
+    ],
+
+
+    "secondMainNav": [
+       {
+        "url": "/expericenced_team.html",
+        "text": "Experienced team",
+        "linkID": "",
+        "linkClass": "services",
+        "newTab": false
+        },
+        {   
+        "url": "/deliver_valuable.html",
+        "text": "Deliver valuable results",
+        "linkID": "",
+        "linkClass": "services",
+        "newTab": false
+        },
+        {
+        "url": "/collaboration.html",
+        "text": "Collaboration",
+        "linkID": "",
+        "linkClass": "services",
+        "newTab": false
+        }
+    ],
+
+
+    "thirdMainNav": [
+        {
+         "text": "500+ clients",
+         "linkID": "",
+         "linkClass": "achievements",
+         "newTab": false
+        },
+        {   
+         "text": "1000+ projects completed",
+         "linkID": "",
+         "linkClass": "achievements",
+         "newTab": false
+         },
+        {
+         "text": "10+ Financial services",
+         "linkID": "",
+         "linkClass": "achievements",
+         "newTab": false
+        },
+        {
+            "text": "500+ Team members",
+            "linkID": "",
+            "linkClass": "achievements",
+            "newTab": false
+           }
+     ]
+}
