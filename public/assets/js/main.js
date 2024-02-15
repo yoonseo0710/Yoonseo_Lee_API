@@ -1,6 +1,5 @@
 let result = document.getElementById("result");
-let searchBtn = document.getElementById
-("search-btn");
+let searchBtn = document.getElementById("search-btn");
 let cityRef = document.getElementById("city");
 
 //Function to fetch weather details from API and display them
@@ -20,7 +19,7 @@ let getWeather = () => {
 
             //If city name is valid
             .then((data) => {
-                console.log(data);
+                console.log( data );
                 console.log( data.location.lat );
                 console.log( data.location.lon );
                 console.log( data.location.name );
@@ -51,8 +50,8 @@ let getWeather = () => {
             .catch(( )=> {
                 result.innerHTML = `<h3 class="msg"> City not found</h3>`;
             });
-        }
-    };
+    }
+};
     
 
 searchBtn.addEventListener("click", getWeather);
